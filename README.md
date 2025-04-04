@@ -20,32 +20,6 @@ A simple yet functional Job Portal built with Flask (Python), SQLite, HTML, CSS,
 3. Database: SQLite
 4. Others: Flask-Login 
 
-📁 Project Structure 
-JobPortalWebApp/ 
-├── app.py 
-├── auth.py 
-├── job.py 
-├── models.py 
-├── config.py 
-├── create.db 
-│ 
-├── instance/ 
-│ └── database.db 
-│ ├── resumes/ 
-│ 
-├── templates/ 
-│ ├── base.html 
-│ ├── login.html 
-│ ├── register.html 
-│ ├── dashboard.html 
-│ ├── seeker_dashboard.html 
-│ ├── employer_dashboard.html 
-│ ├── postjob.html 
-│ ├── postedjobs.html 
-│ ├── job_list.html 
-│ ├── applyjob.html 
-│ └── admin_dashboard.html 
-
 <pre lang="markdown"><code> ## 📁 Project Structure ``` JobPortalWebApp/ ├── app.py ├── auth.py ├── job.py ├── models.py ├── config.py ├── create.db │ ├── instance/ │ └── database.db │ ├── resumes/ │ ├── templates/ │ ├── base.html │ ├── login.html │ ├── register.html │ ├── dashboard.html │ ├── seeker_dashboard.html │ ├── employer_dashboard.html │ ├── postjob.html │ ├── postedjobs.html │ ├── job_list.html │ ├── applyjob.html │ └── admin_dashboard.html ``` </code></pre>
 
 ⭐ Acknowledgements
