@@ -3,6 +3,7 @@
 A simple yet functional Job Portal built with Flask (Python), SQLite, HTML, CSS, and Bootstrap. This platform enables seamless interaction between Job Seekers, Employers, and an Admin, offering features like job posting, job search, and job application.
 
 🚀 Features
+
 👤 User Roles
 1. Job Seekers: Register, log in, view and apply for jobs.
 2. Employers: Post job listings, view applicants.
