@@ -1,6 +1,7 @@
 # 💼  JOB-PORTAL-WEB-APPLICATION
---------------------------------
+
 A simple yet functional Job Portal built with Flask (Python), SQLite, HTML, CSS, and Bootstrap. This platform enables seamless interaction between Job Seekers, Employers, and an Admin, offering features like job posting, job search, and job application.
+
 🚀 Features
 👤 User Roles
 1. Job Seekers: Register, log in, view and apply for jobs.
@@ -48,3 +49,5 @@ JobPortalWebApp/
 
 ⭐ Acknowledgements
 Thanks to the open-source community and the creators of Flask, Bootstrap, and all the awesome libraries used in this project.
+
+JobPortalWebApp/ ├── app.py ├── auth.py ├── job.py ├── models.py ├── config.py ├── create.db │ ├── instance/ │ └── database.db │ ├── resumes/ │ ├── templates/ │ ├── base.html │ ├── login.html │ ├── register.html │ ├── dashboard.html │ ├── seeker_dashboard.html │ ├── employer_dashboard.html │ ├── postjob.html │ ├── postedjobs.html │ ├── job_list.html │ ├── applyjob.html │ └── admin_dashboard.html
