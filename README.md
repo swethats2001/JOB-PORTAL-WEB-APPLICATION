@@ -1,4 +1,4 @@
-# 💼  JOB-PORTAL-WEB-APPLICATION
+![image](https://github.com/user-attachments/assets/96e7935a-aaa7-489e-8ced-24e0f9c303ac)# 💼  JOB-PORTAL-WEB-APPLICATION
 
 A simple yet functional Job Portal built with Flask (Python), SQLite, HTML, CSS, and Bootstrap. This platform enables seamless interaction between Job Seekers, Employers, and an Admin, offering features like job posting, job search, and job application.
 
@@ -21,6 +21,34 @@ A simple yet functional Job Portal built with Flask (Python), SQLite, HTML, CSS,
 4. Others: Flask-Login 
 
 📁 Project Structure
+```
+JobPortalWebApp/
+├── app.py
+├── auth.py
+├── job.py
+├── models.py
+├── config.py
+├── create.db
+│
+├── instance/
+│   └── database.db
+│
+├── resumes/
+│
+├── templates/
+│   ├── base.html
+│   ├── login.html
+│   ├── register.html
+│   ├── dashboard.html
+│   ├── seeker_dashboard.html
+│   ├── employer_dashboard.html
+│   ├── postjob.html
+│   ├── postedjobs.html
+│   ├── job_list.html
+│   ├── applyjob.html
+│   └── admin_dashboard.html
+```
+
 <pre lang="markdown"><code> ``` JobPortalWebApp/ ├── app.py ├── auth.py ├── job.py ├── models.py ├── config.py ├── create.db │ ├── instance/ │ └── database.db │ ├── resumes/ │ ├── templates/ │ ├── base.html │ ├── login.html │ ├── register.html │ ├── dashboard.html │ ├── seeker_dashboard.html │ ├── employer_dashboard.html │ ├── postjob.html │ ├── postedjobs.html │ ├── job_list.html │ ├── applyjob.html │ └── admin_dashboard.html ``` </code></pre>
 
 ⭐ Acknowledgements
