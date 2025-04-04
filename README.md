@@ -21,7 +21,7 @@ A simple yet functional Job Portal built with Flask (Python), SQLite, HTML, CSS,
 4. Others: Flask-Login 
 
 📁 Project Structure 
-'''
+,,,
 JobPortalWebApp/ 
 ├── app.py 
 ├── auth.py 
@@ -46,6 +46,6 @@ JobPortalWebApp/
 │ ├── job_list.html 
 │ ├── applyjob.html 
 │ └── admin_dashboard.html 
-'''
+,,,
 ⭐ Acknowledgements
 Thanks to the open-source community and the creators of Flask, Bootstrap, and all the awesome libraries used in this project.
