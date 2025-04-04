@@ -33,8 +33,7 @@ JobPortalWebApp/
 │
 ├── instance/
 │   └── database.db
-│
-├── resumes/
+│   └── resumes/
 │
 ├── templates/
 │   ├── base.html
